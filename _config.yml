@@ -60,13 +60,12 @@ plugins:
 author:
   name   : "Zidi Zhang"  
   avatar : "/assets/images/avatar.jpg" 
-  bio    : "Data-focused researcher passionate about visualizations and psychometrics."  
   location: "Massachusetts, USA"
   email: "zidizhang@gse.harvard.edu"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/zidi-zhang-b832a3270"
+      url: "https://www.linkedin.com/in/zidi-zhang-zydhqcsj071"
 
 footer:
   links:
