@@ -5,26 +5,24 @@ author_profile: true
 classes: wide
 ---
 
-## 🕒 Posts by Year
+## 💡 What I Value
 
-{% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in posts_by_year %}
-### {{ year.name }}
-<ul>
-  {% for post in year.items %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>({{ post.date | date: '%b %d' }})</small></li>
-  {% endfor %}
-</ul>
-{% endfor %}
+<span style="font-size: 1.1rem; line-height: 2;">
+Researching for equity.  
+Measuring for meaning.  
+Writing for inclusion.  
+Visualizing for clarity.  
+Evaluating for growth.
+</span>
 
 ---
 
-## 🗂️ Posts by Category
+## 🗂️ Project Categories
 
-{% assign categories = "research-oriented,data-oriented,visualizations,psychometrics,sample-data-overview-meeting" | split: "," %}
+{% assign categories = "Policy Research,Data-analysis,visualizations,psychometrics,Sample Data-overview Meeting" | split: "," %}
 
 {% for category in categories %}
-### {{ category | capitalize | replace: '-', ' ' }}
+### {{ category | replace: '-', ' ' | capitalize }}
 <ul>
   {% for post in site.categories[category] %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>({{ post.date | date: '%Y-%m-%d' }})</small></li>
