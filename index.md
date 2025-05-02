@@ -8,10 +8,10 @@ classes: wide
 ## 💡 What I Value
 
 <span style="font-size: 1.1rem; line-height: 2;">
-Researching for equity.  
-Measuring for meaning.  
-Writing for inclusion.  
-Visualizing for clarity.  
+Researching for equity.<br>
+Measuring for meaning.<br>
+Writing for inclusion.<br>
+Visualizing for clarity.<br>
 Evaluating for growth.
 </span>
 
