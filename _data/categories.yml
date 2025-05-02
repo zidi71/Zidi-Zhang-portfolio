@@ -1,0 +1,19 @@
+- name: research-projects
+  description: Academic and applied projects exploring policy, equity, and education systems.
+  color: "#2a9d8f"
+
+- name: data-analysis
+  description: Explorations into data cleaning, transformation, modeling, and pattern discovery.
+  color: "#e76f51"
+
+- name: visualizations
+  description: Interactive and static visual storytelling for education, equity, and communication.
+  color: "#f4a261"
+
+- name: psychometrics
+  description: Quantitative tools for assessing learning, cognition, and educational outcomes.
+  color: "#264653"
+
+- name: team-meetings
+  description: Reflections on data-overview presentations, team discussions, and collaborative reviews.
+  color: "#8ab17d"
