@@ -1,6 +1,4 @@
 main:
-  - title: "Project Timeline"
-    url: /timeline/
   - title: "Project Categories"
     url: /categories/   
   - title: "Certifications"
