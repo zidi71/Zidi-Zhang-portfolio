@@ -2,7 +2,7 @@
 layout: single
 title: "Liberia Girls' Education Policy"
 excerpt: "Funding sustainability solutions for adolescent girls"
-category: policy-analysis  # 必须和categories.yml一致
+category: policy-analysis 
 header:
   image: /assets/images/liberia-thumbnail.jpg
   teaser: /assets/images/liberia-thumbnail.jpg
