@@ -5,7 +5,7 @@ categories: ["Education Policy Research"]
 excerpt: "A policy proposal using mixed methods to improve financial sustainability and stakeholder engagement in adolescent girls' education-to-employment programs in Liberia."
 tags: ["Policy", "International Development", "Education", "Gender Equity", "Sustainability", "Vocational Training"]
 header:
-  image: /assets/images/liberia.jpg
+  image: /assets/images/liberia-policy-thumbnail.jpg
   caption: "Policy Memo: Education-to-Employment in International Development Contexts"
 ---
 
