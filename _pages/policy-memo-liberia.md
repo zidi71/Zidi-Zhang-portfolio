@@ -23,7 +23,7 @@ header:
 - Recommendations tailored for government and NGO implementation
 - Presented findings to institutional leaders and policy stakeholders
 
-[View Full Memo (PDF)](drive.google.com/file/d/19iazFvXFOwU70paZM9rN-0E-saeQUaHA/view?usp=sharing){:target="_blank"}  
-[View Full Proposal (PDF)](drive.google.com/file/d/1Mdjb1kLdyxz8EljmPGVhKcc77k35XjDe/view?usp=sharing){:target="_blank"}  
+[View Full Memo (PDF)](https://drive.google.com/file/d/1Mdjb1kLdyxz8EljmPGVhKcc77k35XjDe/view?usp=sharing){:target="_blank"}  
+[View Full Proposal (PDF)](https://drive.google.com/file/d/19iazFvXFOwU70paZM9rN-0E-saeQUaHA/view?usp=sharing){:target="_blank"}  
 
 ---
