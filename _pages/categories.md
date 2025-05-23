@@ -1,9 +1,12 @@
 ---
-layout: categories  
-title: "Project Categories"
+layout: categories
+title: "Browse by Category"
 permalink: /categories/
 ---
 
 ### Education Policy Analysis
 - [Liberia Girls' Education Policy](/policy-memo-liberia/)
-- [AP Diagnostic Analysis](#)  
+- [AP Diagnostic Analysis](#) 
+
+### Certifications 
+- [View All Certifications](/certifications/) 
