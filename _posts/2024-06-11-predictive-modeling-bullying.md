@@ -33,9 +33,15 @@ Designed and implemented a predictive analytics pipeline to assess student risk 
 
 #### Regularization Tuning for Regression Model
 
-![RMSE vs Regularization Parameter](assets/images/bullying-regularization-rmse.jpg)
-
-Figure 1. Cross-validated RMSE as a function of the regularization parameter in penalized regression, illustrating optimal model complexity and generalization trade-offs.
+<div align="center">
+  <img src="assets/images/bullying-regularization-rmse.jpg" 
+       alt="RMSE vs Regularization Parameter" 
+       width="600">
+  <br>
+  <em>
+    Figure 1...
+  </em>
+</div>
 
 #### Random Forest Hyperparameter Optimization
 
