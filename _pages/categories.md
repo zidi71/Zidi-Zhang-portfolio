@@ -1,8 +1,13 @@
 ---
-layout: categories
-title: "Project Categories"
-permalink: /categories/
-author_profile: true
+layout: category
+title: "Education Policy Analysis"
+permalink: /categories/policy-analysis/
+taxonomy: Policy Analysis
 ---
 
-Welcome! Here you can explore my projects categorized by focus and discipline.
+---
+layout: category
+title: "Data Science & Psychometrics"
+permalink: /categories/data-science/
+taxonomy: Data Science
+---
