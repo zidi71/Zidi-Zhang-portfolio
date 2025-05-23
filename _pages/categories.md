@@ -1,13 +1,9 @@
 ---
-layout: category
-title: "Education Policy Analysis"
-permalink: /categories/policy-analysis/
-taxonomy: Policy Analysis
+layout: categories  
+title: "Project Categories"
+permalink: /categories/
 ---
 
----
-layout: category
-title: "Data Science & Psychometrics"
-permalink: /categories/data-science/
-taxonomy: Data Science
----
+### Education Policy Analysis
+- [Liberia Girls' Education Policy](/policy-memo-liberia/)
+- [AP Diagnostic Analysis](#)  
