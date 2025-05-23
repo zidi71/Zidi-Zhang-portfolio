@@ -1,8 +1,7 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Projects"
     url: /categories/
-    children:
-      - title: "Education Policy"
-        url: /categories/#education-policy-analysis
-      - title: "Data Science"
-        url: /categories/#data-science
+  - title: "Certifications"
+    url: /certifications/
