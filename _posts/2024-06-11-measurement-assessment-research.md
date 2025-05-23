@@ -1,23 +1,25 @@
 ---
 title: "Statistical Researcher in Measurement & Assessment — Large-Scale ELA Psychometric Analysis"
 categories: ["Data Science in Education"]
-excerpt: "Psychometric evaluation and fairness testing of K-12 ELA assessments using advanced R methods for a large U.S. school district."
-tags: ["Psychometrics", "R", "Educational Assessment", "Statistical Modeling"]
+excerpt: "Applied advanced psychometric and statistical modeling techniques using R to evaluate fairness, reliability, and validity of K-12 ELA assessments in a large U.S. school district."
+tags: ["Psychometrics",“Measurement”, "R", "Educational Assessment", "Advanced Statistical Modeling"]
 header:
   image: /assets/images/assessment-thumbnail.jpg
-  caption: "Psychometric Analysis Case Study"
+  caption: "Evaluating Fairness and Validity in K-12 Assessment"
 ---
 
 ## Overview
 
-- Conducted **large-scale psychometric analysis** of ELA assessments for ~4,000 K-12 students.
-- Applied **Generalizability theory (G-theory), differential item functioning (DIF), and classical test theory (CTT)** to evaluate test validity, reliability, and fairness.
-- Automated workflows using **R** (lme4, psych, corrr, sjPlot, etc.) for data cleaning, model building, visualization, and reporting.
-- Translated analytical insights into **methodological recommendations** for district-wide assessment improvements.
+Led a quantitative research project evaluating the psychometric properties of large-scale English Language Arts (ELA) assessments for approximately 4,000 K-12 students in a major U.S. district.
 
-**Key Contributions**
-- Advanced quantitative modeling for educational assessment quality assurance.
-- Clear reporting of measurement limitations and real-world recommendations for district and school leadership.
-- Created an end-to-end, reproducible data pipeline—from raw data cleaning to interactive visualization and structured reporting.
+- Applied **Generalizability Theory (G-theory), Classical Test Theory (CTT), and Differential Item Functioning (DIF)** to assess test validity, score reliability, and subgroup fairness.
+- Automated the full analytical pipeline in **R** (lme4, psych, corrr, sjPlot, etc.), streamlining data cleaning, statistical modeling, visualization, and reporting.
+- Produced actionable methodological recommendations to improve assessment practices and ensure equitable score interpretation.
 
-[View Full Analysis (PDF)](YOUR_GOOGLE_DRIVE_URL){:target="_blank"}
+## Key Contributions
+
+- Developed end-to-end, reproducible data science workflows—from raw data processing to interactive visualization and deliverables.
+- Provided clear, evidence-based insights to school and district leadership, highlighting measurement limitations and equity considerations.
+- Advanced the use of modern psychometric and statistical tools in district-level educational assessment for continuous improvement.
+
+[View Full Analysis (PDF)](https://drive.google.com/file/d/1luq0mL6ZYU6iWDMdrlN0pdJ59YjcHjhP/view?usp=sharing)
