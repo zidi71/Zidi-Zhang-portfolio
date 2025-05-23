@@ -29,7 +29,10 @@ Designed and implemented a predictive analytics pipeline to assess student risk 
 
 ### Model Performance & Optimization Visualizations
 
-> **Note:** Due to student privacy and data protection requirements, the final report cannot be publicly shared. However, selected visualizations and methodological summaries are available below to illustrate key findings and modeling approaches.
+<span style="font-size:0.95em; color: #666;">
+<em>Note: Due to student privacy and data protection requirements, the final report cannot be publicly shared. However, selected visualizations and methodological summaries are available below to illustrate key findings and modeling approaches.</em>
+</span>
+
 ---
 
 #### Regularization Tuning for Regression Model
