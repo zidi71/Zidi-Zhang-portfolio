@@ -1,3 +1,9 @@
-policy-analysis:
-  name: "Policy Analysis"
-  description: "Education policy research projects"
+- name: Education Policy Memos
+  description: >
+    Selected memos and policy analysis works focusing on education sector interventions and evaluation.
+  short_name: policymemos
+
+- name: Data Science in Education
+  description: >
+    Analytical and data-driven projects showcasing quantitative impact, modeling, and insights in education.
+  short_name: educationdata
