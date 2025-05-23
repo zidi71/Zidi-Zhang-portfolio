@@ -28,6 +28,6 @@ Developed evidence-based recommendations to simplify AP exam access, increase ta
     - Simplified, multilingual AP exam registration & outreach
     - School-based learning support pilots for ED and EL students, including academic counseling and targeted tutoring
     - Improved communication of AP opportunities and financial supports to families
-- **Stakeholder Impact:** Policy brief shared with state education officials; findings used as a basis for administrative decision-making and advocacy for equitable AP opportunities.
+- **Stakeholder Impact:** Findings and policy brief shared with state education officials to inform administrative decision-making and advocate for equitable AP opportunities.
 
 [View Full Memo (PDF)](https://drive.google.com/file/d/1Jt2L_lsj8CIH_CIar4MQLbUnugPn4xnO/view?usp=sharing)
