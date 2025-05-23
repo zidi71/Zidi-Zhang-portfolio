@@ -34,15 +34,15 @@ Designed and implemented a predictive analytics pipeline to assess student risk 
 
 #### Regularization Tuning for Regression Model
 
-![RMSE vs Regularization Parameter](/assets/images/1.jpg)
+[View](https://drive.google.com/file/d/1wUadIy3vrIxbBr0AJDjTrTXc_R8dOKbD/view?usp=sharing)
 
-Figure 1. Cross-validated RMSE as a function of the regularization parameter in penalized regression, illustrating optimal model complexity and generalization trade-offs.
+*Figure 1. Cross-validated RMSE as a function of the regularization parameter in penalized regression, illustrating optimal model complexity and generalization trade-offs.*
 
 ---
 
 #### Random Forest Hyperparameter Optimization
 
-![Random Forest Tuning](/assets/images/2.jpg)
+[View](https://drive.google.com/file/d/1JUuVEYaStLP8A8nAlE5b6MDe1Ly5g_4F/view?usp=sharing)
 
 *Figure 2. Random forest hyperparameter tuning. RMSE trends for training and validation sets guide optimal parameter selection and ensure reliable performance.*
 
@@ -50,7 +50,7 @@ Figure 1. Cross-validated RMSE as a function of the regularization parameter in 
 
 #### Variable Importance from Random Forest Model
 
-![Variable Importance Plot](/assets/images/3.jpg)
+[View](https://drive.google.com/file/d/1ddDzzgAvZG_mMXbckmkwoUFsU309N1Gm/view?usp=sharing)
 
 *Figure 3. Feature importance from random forest identifies top contributing factors to bullying risk, including reported discrimination, emotional safety, clarity of school rules, and belonging.*
 
