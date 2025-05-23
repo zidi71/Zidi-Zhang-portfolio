@@ -1,61 +1,70 @@
 ---
 title: "Predictive Analytics for Student Wellbeing — Building a Bullying Risk Model"
 categories: ["Data Science in Education"]
-excerpt: "Practical application of predictive modeling and machine learning to identify patterns and risk factors of bullying victimization in K-12 student data."
+excerpt: "Applied machine learning and predictive analytics to identify risk factors and patterns of bullying victimization based on large-scale K-12 survey data."
 tags: ["Predictive Analytics", "R", "Machine Learning", "Student Wellbeing", "Data Visualization"]
 header:
   image: /assets/images/bullying-model-thumbnail.jpg
-  caption: "Predictive Modeling for Education"
+  caption: "Applied Machine Learning for K-12 Bullying Risk Assessment"
 ---
 
 ![Bullying Risk Model thumbnail](/assets/images/bullying-model-thumbnail.jpg)
 
 ## Overview
 
-- Developed and validated a **predictive analytics workflow** to assess bullying risk among K-12 students using survey and behavioral data.
-- Applied **data cleaning, feature engineering, imputation, and aggregation** to transform raw educational survey data for robust analysis.
-- Built and tuned multiple regression and classification models (**linear regression, logistic regression, decision trees**) in **R** to predict both bullying frequency and high-risk status.
-- Engineered an interpretable pipeline for **variable importance, student risk scoring, and actionable insights** for educators and school leaders.
-- Communicated findings with clear impact visualizations and policy recommendations focused on preventative interventions.
+Designed and implemented a predictive analytics pipeline to assess student risk of bullying using survey data from over 8,000 K-12 students across multiple Massachusetts school districts.
 
-**Key Highlights**
-- Processed and recoded 20+ survey variables into thematic factors (e.g., school safety, support, social belonging, parental involvement).
-- Achieved high accuracy in predicting student bullying risk, identifying key drivers such as perceived physical/emotional safety, school support level, and peer dynamics.
-- Designed clear, publication-ready data visualizations (see below) to aid stakeholder understanding and evidence-informed interventions.
+- Performed **comprehensive data wrangling**: handled missing data via imputation, engineered composite psychosocial features (e.g., perceived school safety, belonging), and prepared high-dimensional datasets for modeling.
+- Built, tuned, and evaluated multiple supervised learning models in **R** (including regularized regression, logistic regression, decision trees, and random forests), delivering strong predictive performance for both continuous bullying risk scores and binary high-risk classification.
+- Quantified **variable importance** to identify key predictors of victimization, such as perceived discrimination, emotional safety, clarity of school rules, and peer belonging.
+- Produced **interpretable risk scores** and actionable insights for school leaders, informing the development of targeted, data-driven prevention and intervention strategies.
+- Communicated findings with clear, publication-ready data visualizations and summary reports designed for educators and policy stakeholders.
+
+## Key Highlights
+
+- Constructed and validated indices from 20+ survey items, transforming qualitative responses into meaningful factors for modeling and reporting.
+- Achieved robust out-of-sample model accuracy (validation RMSE ≈ 0.39) through rigorous cross-validation and hyperparameter tuning, demonstrating the practical value of predictive analytics for early intervention in student wellbeing.
+- Delivered concise policy recommendations for administrators, emphasizing ethical use of predictive models to support at-risk students while mitigating bias and stigmatization.
+- Developed an end-to-end data science workflow, from preprocessing and exploratory analysis through interpretability and visualization, enabling reproducibility and scalability for future wellbeing research projects.
 
 ---
 
 ### Model Performance & Optimization Visualizations
 
+> **Note:** Due to student privacy and data protection requirements, the final report cannot be publicly shared. However, selected visualizations and methodological summaries are available below to illustrate key findings and modeling approaches.
+
 #### Regularization Tuning for Regression Model
 
-![RMSE vs Regularization Parameter](/assets/images/bullying-regularization-rmse.jpg)
+![RMSE vs Regularization Parameter](/assets/images/bullying-regularization-rmse.png)
 
-*Figure 1. Cross-validated Root Mean Squared Error (RMSE) as a function of the regularization parameter in a penalized regression model. This plot illustrates how appropriately tuning the regularization strength helps control overfitting and improve generalization to new, unseen data. Lower RMSE values indicate better predictive accuracy.*
+*Figure 1. Cross-validated RMSE as a function of the regularization parameter in penalized regression, illustrating optimal model complexity and generalization trade-offs.*
 
 #### Random Forest Hyperparameter Optimization
 
-![Random Forest Tuning](/assets/images/bullying-rf-rmse.jpg)
+![Random Forest Tuning](/assets/images/bullying-rf-rmse.png)
 
-*Figure 2. Random Forest hyperparameter tuning results. RMSE trends are shown for both training and validation sets as the number of variables considered at each split (`mtry`) increases. The vertical line marks the optimal `mtry` value selected on the basis of lowest validation RMSE, helping maximize model performance while mitigating overfitting.*
+*Figure 2. Random forest hyperparameter tuning. RMSE trends for training and validation sets guide optimal parameter selection and ensure reliable performance.*
 
 #### Variable Importance from Random Forest Model
 
-![Variable Importance Plot](/assets/images/bullying-feature-importance.jpg)
+![Variable Importance Plot](/assets/images/bullying-feature-importance.png)
 
-*Figure 3. Feature importance plot from the optimized random forest model. Higher values on the IncNodePurity axis indicate greater predictive contribution toward bullying risk identification. Key drivers included reported experiences of discrimination (`disc_all`), perceptions of emotional safety (`esafe`), clarity of school rules, and a sense of school belonging. These insights informed targeted recommendations for improving student wellbeing and intervention strategies.*
+*Figure 3. Feature importance from random forest identifies top contributing factors to bullying risk, including reported discrimination, emotional safety, clarity of school rules, and belonging.*
+
 ---
 
 ## Skills & Tools
 
-**Tech stack:**  
-- R (tidyverse, glm, rpart, ggplot2, dplyr, tidyr)
-- Data cleaning, aggregation, and feature engineering  
-- Modeling (regression, classification, risk scoring)
-- Data visualization & interpretability
+- **R** (tidyverse, glm, rpart, randomForest, ggplot2, dplyr, tidyr)
+- Data cleaning, feature engineering, missing data imputation
+- Predictive modeling: regression, classification, risk scoring
+- Cross-validation & hyperparameter optimization
+- Data visualization, reporting, interpretability
 
 ---
 
 ## Impact
-- Provided **data-driven suggestions for early identification and prevention strategies** in student wellbeing and safety.
-- Demonstrated **practical value of analytics for education practitioners** seeking to understand at-risk groups and design targeted support.
+
+- Enabled **early identification of at-risk student groups** to support proactive, equity-oriented wellbeing interventions.
+- Provided **actionable, data-driven insights** for educators and administrators, demonstrating real-world impact of advanced analytics in K-12 education.
+- Informed ethical considerations around algorithmic bias and stakeholder use of predictive models in sensitive educational contexts.
