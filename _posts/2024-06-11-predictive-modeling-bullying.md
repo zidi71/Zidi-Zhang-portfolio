@@ -30,6 +30,7 @@ Designed and implemented a predictive analytics pipeline to assess student risk 
 ### Model Performance & Optimization Visualizations
 
 > **Note:** Due to student privacy and data protection requirements, the final report cannot be publicly shared. However, selected visualizations and methodological summaries are available below to illustrate key findings and modeling approaches.
+---
 
 #### Regularization Tuning for Regression Model
 
@@ -37,11 +38,15 @@ Designed and implemented a predictive analytics pipeline to assess student risk 
 
 Figure 1. Cross-validated RMSE as a function of the regularization parameter in penalized regression, illustrating optimal model complexity and generalization trade-offs.
 
+---
+
 #### Random Forest Hyperparameter Optimization
 
 ![Random Forest Tuning](/assets/images/2.jpg)
 
 *Figure 2. Random forest hyperparameter tuning. RMSE trends for training and validation sets guide optimal parameter selection and ensure reliable performance.*
+
+---
 
 #### Variable Importance from Random Forest Model
 
