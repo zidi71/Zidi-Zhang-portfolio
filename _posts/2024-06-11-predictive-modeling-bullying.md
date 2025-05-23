@@ -8,8 +8,6 @@ header:
   caption: "Applied Machine Learning for K-12 Bullying Risk Assessment"
 ---
 
-![Bullying Risk Model thumbnail](/assets/images/bullying-model-thumbnail.jpg)
-
 ## Overview
 
 Designed and implemented a predictive analytics pipeline to assess student risk of bullying using survey data from over 8,000 K-12 students across multiple Massachusetts school districts.
