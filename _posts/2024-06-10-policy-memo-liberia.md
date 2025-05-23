@@ -24,7 +24,8 @@ Developed and presented actionable recommendations to advance multi-sector partn
 - **Stakeholder Mapping & Analysis:** Mapped core stakeholder groups and constructed engagement strategies to drive local ownership and sustainability.
 - **Evaluation Matrix & Mixed Methods:** Integrated quantitative data, policy review, and qualitative input from practitioner interviews to provide a holistic assessment of program sustainability.
 - **Policy Recommendations:** Proposed a tiered engagement and co-financing model, local government integration, and transparent monitoring frameworks for broader adoption.
-- **Impact:** Policy brief circulated to Liberian agencies and international development partners—guiding future funding models and program design for gender-responsive, sustainable skills development.
+- **Impact:** Policy brief and proposal shared with World Bank-affiliated stakeholders and relevant Liberian agencies via direct outreach, with the potential to inform future discussions on funding models and program design for gender-responsive, sustainable skills development.
 
 [View Full Memo (PDF)](https://drive.google.com/file/d/19iazFvXFOwU70paZM9rN-0E-saeQUaHA/view?usp=sharing)
+
 [View Full Proposal (PDF)](https://drive.google.com/file/d/1Mdjb1kLdyxz8EljmPGVhKcc77k35XjDe/view?usp=sharing)
