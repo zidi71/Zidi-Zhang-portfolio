@@ -2,7 +2,7 @@
 layout: splash
 title: "Featured Projects"
 header:
-  overlay_image: /assets/images/education-policy-bg.jpg  # 可选背景图
+  overlay_image: /assets/images/education-policy-bg.jpg  
 feature_row:
   - image_path: /assets/images/liberia-thumbnail.jpg
     alt: "Liberia Policy"
