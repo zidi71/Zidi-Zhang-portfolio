@@ -1,14 +1,14 @@
 ---
-layout: splash
-title: "Featured Projects"
-header:
-  overlay_image: /assets/images/education-policy-bg.jpg  
-feature_row:
-  - image_path: /assets/images/liberia-thumbnail.jpg
-    alt: "Liberia Policy"
-    title: "Liberia Girls' Education"
-    excerpt: "Funding sustainability analysis"
-    url: "/policy-memo-liberia/"
-    btn_label: "View Details"
-    btn_class: "btn--primary"
+title: "Projects"
+permalink: /projects/
+layout: categories
+author_profile: true
+sidebar:
+  nav: "projects"
 ---
+
+# My Projects
+
+Welcome to my portfolio of selected works. Click on a category to explore sample projects and case studies.
+
+{% include category-list.html %}
