@@ -32,7 +32,7 @@ Led the impact evaluation of foundational learning interventions for Building To
 
 View the Tableau dashboard for dynamic exploration of impact metrics:
 
-[Explore Interactive Dashboard](https://public.tableau.com/views/ProgramEvaluationofBuildingTomorrow/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Explore Interactive Dashboard](https://public.tableau.com/shared/87GRK2TRR?:display_count=n&:origin=viz_share_link)
 
 ---
 
