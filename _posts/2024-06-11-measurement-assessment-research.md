@@ -2,7 +2,7 @@
 title: "Statistical Researcher in Measurement & Assessment — Large-Scale ELA Psychometric Analysis"
 categories: ["Data Science in Education"]
 excerpt: "Applied advanced psychometric and statistical modeling techniques using R to evaluate fairness, reliability, and validity of K-12 ELA assessments in a large U.S. school district."
-tags: ["Psychometrics",“Measurement”, "R", "Educational Assessment", "Advanced Statistical Modeling"]
+tags: ["Psychometrics","Measurement", "R", "Educational Assessment", "Advanced Statistical Modeling"]
 header:
   image: /assets/images/assessment-thumbnail.jpg
   caption: "Evaluating Fairness and Validity in K-12 Assessment"
