@@ -1,6 +1,6 @@
 ---
 title: "Program Evaluation Fellow — Building Tomorrow, Uganda"
-categories: ["Program Evaluation & Data Science in Education"]
+categories: ["Program Evaluation"]
 excerpt: "Led large-scale impact evaluation of foundational learning interventions in Uganda, delivering analytics-driven recommendations and equity-focused visualizations for NGO and policy stakeholders."
 tags: ["Program Evaluation", "Impact Analytics", "Tableau", "Data Visualization", "Education", "International Development","Data Story Dashboard"]
 header:
